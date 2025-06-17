@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cbe81627-cad5-4c8c-93f2-cea1d7bef051",
+    "name": "Andrew Nyenyo",
+    "number": "2",
+    "rating": "90",
+    "position": "right-back"
+  },
+  {
+    "id": "2e1ce3b8-0a7d-4f76-aeef-41020ebe5c84",
+    "name": "Graham Mwangata",
+    "number": "8",
+    "rating": "83",
+    "position": "MidFielder"
+  },
+  {
+    "name": "Franton",
+    "position": "Center-Forward",
+    "number": 10,
+    "rating": 75,
+    "id": "1e18310f-4451-458a-84d9-bf808971c26a"
+  },
+  {
+    "name": "Gregson Mwavuna",
+    "position": "Right-Winger",
+    "number": 7,
+    "rating": 67,
+    "id": "3a45d20a-6e03-4aa1-8e0b-c80eb1a3901b"
+  },
+  {
+    "name": "Kelton",
+    "position": "Defensive- Midfielder",
+    "number": 6,
+    "rating": 85,
+    "id": "dd809db3-1e48-4c32-851d-be8bc2dc3752"
+  }
+]
