@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# dotenv environment variables
+.env
+
+# React build
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+git a
