@@ -92,7 +92,7 @@ function App() {
 
       <Navbar />
       <h1 className="text-3xl font-bold text-center mb-6 text-green-900">
-        Teen Titans FC
+        Teen Titans FC.
       </h1>
       <PlayerForm onAdd={handleAddPlayer} />
       {loading ? (
